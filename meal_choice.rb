@@ -6,4 +6,3 @@ def meal_choice
   puts "vegan"
 end 
  
-
