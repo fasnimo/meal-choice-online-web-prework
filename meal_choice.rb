@@ -3,7 +3,6 @@
 def meal_choice(meal = "vegan")
   no_pass = "meat"
   no_pass
-  meal
- 
+  
 end 
 
