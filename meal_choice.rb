@@ -5,4 +5,5 @@ def meal_choice(meal = "vegan")
   no_pass
  
 end 
- 
+
+meal_choice("vegan")
