@@ -3,4 +3,5 @@
 def meal_choice(eater = "meat") 
   puts "I am on a #{eater} diet!"
 end
+meal_choice()
 meal_choice("vegan")
