@@ -7,4 +7,3 @@ def meal_choice(meal = "vegan")
  
 end 
 
-meal_choice("vegan")
