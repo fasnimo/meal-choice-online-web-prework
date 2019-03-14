@@ -1,7 +1,7 @@
 # Define a method meal_choice that returns the meal_choice that was
 # passed into it and defaults to meat.
-def meal_choice(meal = "vegan")
-  no_pass = "meat"
+def meal_choice(meal = "meat")
+  no_pass = "vegan"
  meal
   
 end 
